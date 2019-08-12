@@ -133,3 +133,5 @@ K折交叉，预估了下，这个比赛最多支持3G的压缩包，而pytorch�
     - ...
 
 总之，人生就是这么奇妙
+
+最后，感谢我的队友[caldreaming](https://github.com/caldreaming)提供了答案验证模块！
